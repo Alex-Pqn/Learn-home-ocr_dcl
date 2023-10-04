@@ -71,8 +71,8 @@ Thomas
 #### Objectifs
 - Réalisation de [diagrammes de cas d’usage](./Diagramme_cas_usage.pdf) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 - [User stories](./User_stories.pdf) avec critère(s) d’acceptation pour chacune des fonctionnalités
-- Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma.
-- [Kanban](https://www.notion.so/Dev4U-Learn-Home-c77341f3343c42828d99cc564220e269?pvs=4) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement.
+- Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma
+- [Kanban](https://www.notion.so/Dev4U-Learn-Home-c77341f3343c42828d99cc564220e269?pvs=4) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
 
 ---
 
