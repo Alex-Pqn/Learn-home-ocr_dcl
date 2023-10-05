@@ -76,6 +76,7 @@ Thomas
 
 ## Maquettes
 
+> [!NOTE]  
 > Vous pouvez aussi consulter [la totalité des maquettes réalisées](./Maquettes_figma.pdf) sur ce projet
 
 ![Maquette tableau de bord](/assets/maquettes/Learn@Home.png)
