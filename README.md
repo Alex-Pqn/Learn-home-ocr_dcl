@@ -74,9 +74,7 @@ Thomas
 - Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma
 - [Kanban](https://www.notion.so/Dev4U-Learn-Home-c77341f3343c42828d99cc564220e269?pvs=4) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
 
----
-
-### Maquettes
+## Maquettes
 
 > Vous pouvez aussi consulter [la totalité des maquettes réalisées](./Maquettes_figma.pdf) sur ce projet
 
