@@ -57,7 +57,7 @@ Notre première étape est de bien définir les besoins client, avant de démarr
 
 - Les maquettes du site avec un design simple et au moins une maquette par page (tu peux utiliser Figma ou Sketch et il faudra que tu expliques la navigation entre les pages pendant le meeting).
 
-- Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. J’ai démarré le découpage dans [ce kanban](https://openclassrooms.notion.site/Dev4U-projet-Learn-Home-972828849f7947289c23756d323a6335) sur Notion, à toi de finir de compléter la colonne ”ANALYZE” sur le même modèle. Tu peux travailler sur Notion, Trello ou GitHub.
+- Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. Tu peux travailler sur Notion, Trello ou GitHub.
 
 Je t’envoie [un document](./Notes_de_réunion.pdf) dans lequel j’ai synthétisé les attentes du client. Tu y trouveras nos prises de notes et quelques croquis. Bien sûr, il faudra fournir les maquettes pour desktop et mobile.
 
@@ -72,7 +72,7 @@ Thomas
 - Réalisation de [diagrammes de cas d’usage](./Diagramme_cas_usage.pdf) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 - [User stories](./User_stories.pdf) avec critère(s) d’acceptation pour chacune des fonctionnalités
 - Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma
-- [Kanban](https://www.notion.so/Dev4U-Learn-Home-c77341f3343c42828d99cc564220e269?pvs=4) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
+- [Kanban](https://alex-pqn.notion.site/Dev4U-Learn-Home-c77341f3343c42828d99cc564220e269?pvs=4) découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement
 
 ## Maquettes
 
