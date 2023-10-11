@@ -68,7 +68,7 @@ Si tu as des questions, n’hésite pas !
 Thomas
 </details>
 
-#### Objectifs
+#### Objectifs réalisés
 - Réalisation de [diagrammes de cas d’usage](./Diagramme_cas_usage.pdf) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 - [User stories](./User_stories.pdf) avec critère(s) d’acceptation pour chacune des fonctionnalités
 - Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma
