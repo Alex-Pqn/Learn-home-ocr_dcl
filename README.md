@@ -1,16 +1,17 @@
-![Learn@Home Icon](/assets/Learn@Home%20Logo.PNG)
+![Learn@Home Icon](/assets/Learn@Home%20Logo.jpg)
 
 ## Définissez les besoins pour une app de soutien scolaire - Learn@Home
+
 ### P10 - OpenClassrooms "Développeur Concepteur Logiciel"
 
 #### Contexte du projet
 
-Vous êtes employé depuis 5 ans chez Dev4U, une entreprise de services du numérique de 120 collaborateurs comportant deux entités de développement logiciel : 
+Vous êtes employé depuis 5 ans chez Dev4U, une entreprise de services du numérique de 120 collaborateurs comportant deux entités de développement logiciel :
 
 - une entité spécialisée dans le développement d’applications mobiles, qui comprend 10 personnes ;
 - une dédiée au Web, qui comprend 8 personnes.
 
-![Dev4U Icon](/assets/Dev4U%20Logo.PNG)
+![Dev4U Icon](/assets/Dev4U%20Logo.jpg)
 
 Vous êtes le lead développeur de l’entité web.
 
@@ -43,13 +44,13 @@ De : Thomas
 À : Vous
 ```
 
-Hello, 
+Hello,
 
-Comme promis je t’envoie plus d’informations, suite à la réunion que nous avons eue hier avec Learn@Home. 
+Comme promis je t’envoie plus d’informations, suite à la réunion que nous avons eue hier avec Learn@Home.
 
-> Learn@Home souhaite travailler avec nous sur toute la conception de son site web. 
+> Learn@Home souhaite travailler avec nous sur toute la conception de son site web.
 
-Notre première étape est de bien définir les besoins client, avant de démarrer le développement logiciel pur. Nous avons prévu une nouvelle réunion dans quelques semaines, l’objectif est que tu leur présentes les éléments suivants : 
+Notre première étape est de bien définir les besoins client, avant de démarrer le développement logiciel pur. Nous avons prévu une nouvelle réunion dans quelques semaines, l’objectif est que tu leur présentes les éléments suivants :
 
 - Les diagrammes de cas d’usage pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord), pas besoin d’utiliser l’UML.
 
@@ -66,9 +67,11 @@ Pour les délais, pas de stress, on a réussi à négocier avec le client pour q
 Si tu as des questions, n’hésite pas !
 
 Thomas
+
 </details>
 
 #### Objectifs réalisés
+
 - Réalisation de [diagrammes de cas d’usage](./Diagramme_cas_usage.pdf) pour chacune des fonctionnalités majeures de chaque page (connexion, chat, calendrier, gestionnaire de tâches, tableau de bord)
 - [User stories](./User_stories.pdf) avec critère(s) d’acceptation pour chacune des fonctionnalités
 - Conception des [maquettes du site](./Maquettes_figma.pdf) avec un design simple et au moins une maquette par page, en utilisant Figma
@@ -79,24 +82,24 @@ Thomas
 > [!NOTE]  
 > Vous pouvez aussi consulter [la totalité des maquettes réalisées](https://github.com/Alex-Pqn/Learn-home-ocr_dcl/blob/main/Maquettes_figma.pdf) sur ce projet
 
-![Maquette tableau de bord](/assets/maquettes/Learn@Home.png)
+![Maquette tableau de bord](/assets/maquettes/Learn@Home.jpg)
 <br/>
 <br/>
 <br/>
-![Maquette tableau de bord mobile](/assets/maquettes/Learn@Home%202.png)
+![Maquette tableau de bord mobile](/assets/maquettes/Learn@Home%202.jpg)
 <br/>
 <br/>
 <br/>
-![Maquette chat](/assets/maquettes/Learn@Home%203.png)
+![Maquette chat](/assets/maquettes/Learn@Home%203.jpg)
 <br/>
 <br/>
 <br/>
-![Maquette chat mobile](/assets/maquettes/Learn@Home%204.png)
+![Maquette chat mobile](/assets/maquettes/Learn@Home%204.jpg)
 <br/>
 <br/>
 <br/>
-![Maquette calendrier](/assets/maquettes/Learn@Home%205.png)
+![Maquette calendrier](/assets/maquettes/Learn@Home%205.jpg)
 <br/>
 <br/>
 <br/>
-![Maquette calendrier mobile](/assets/maquettes/Learn@Home%206.png)
+![Maquette calendrier mobile](/assets/maquettes/Learn@Home%206.jpg)
